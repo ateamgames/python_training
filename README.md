@@ -9,3 +9,4 @@ Random notes
 5. Boolean = True/False (always capital T and F) 
 6. Python understands that [] means list. A list can hold more than 1 argument 
 7. You can story any type of data in a list
+8. Tuples are similar with lists, however you cannot modify anything to them, they are immutable 
