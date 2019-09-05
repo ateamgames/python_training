@@ -11,4 +11,6 @@ Random notes
 7. You can story any type of data in a list
 8. Tuples are similar with lists, however you cannot modify anything to them, they are immutable 
 9. It's good practice to group your code into functions
-10. 
+10. Dictionaries are acting like a real dictionay. You add a value and a key pair to it (like an item and a definition)
+11. Dictionaries need to have unique values, you cannot have the same value twice  
+12. For Loops are useful to iterate items of a list/string/etc. It will go one by one 
